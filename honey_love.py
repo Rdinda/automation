@@ -9,4 +9,4 @@ def send_love():
                               body='Ola fazendo teste de msg automatica',      
                               to='whatsapp:+5519998573508' 
                           ) 
-      print(message.sid)
+      print(message.sid) 
